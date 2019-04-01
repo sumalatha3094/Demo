@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="4" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="56" started-at="2019-04-01T05:38:02Z" finished-at="2019-04-01T05:38:02Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="56" started-at="2019-04-01T05:38:02Z" finished-at="2019-04-01T05:38:02Z">
+      <class name="Day2.Day2Demo.Test1">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:Day2.Day2Demo.Test1@26be92ad]" name="beforeSuite" is-config="true" duration-ms="24" started-at="2019-04-01T05:38:02Z" finished-at="2019-04-01T05:38:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:Day2.Day2Demo.Test1@26be92ad]" name="beforeTest" is-config="true" duration-ms="0" started-at="2019-04-01T05:38:02Z" finished-at="2019-04-01T05:38:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:Day2.Day2Demo.Test1@26be92ad]" name="beforeClass" is-config="true" duration-ms="0" started-at="2019-04-01T05:38:02Z" finished-at="2019-04-01T05:38:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="method1()[pri:0, instance:Day2.Day2Demo.Test1@26be92ad]" name="method1" duration-ms="3" started-at="2019-04-01T05:38:02Z" finished-at="2019-04-01T05:38:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Day2.Day2Demo.Test1@26be92ad]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-04-01T05:38:02Z" finished-at="2019-04-01T05:38:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Day2.Day2Demo.Test1@26be92ad]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-04-01T05:38:02Z" finished-at="2019-04-01T05:38:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Day2.Day2Demo.Test1@26be92ad]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2019-04-01T05:38:02Z" finished-at="2019-04-01T05:38:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="method2()[pri:0, instance:Day2.Day2Demo.Test1@26be92ad]" name="method2" duration-ms="3" started-at="2019-04-01T05:38:02Z" finished-at="2019-04-01T05:38:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method2 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Day2.Day2Demo.Test1@26be92ad]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-04-01T05:38:02Z" finished-at="2019-04-01T05:38:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:Day2.Day2Demo.Test1@26be92ad]" name="afterClass" is-config="true" duration-ms="0" started-at="2019-04-01T05:38:02Z" finished-at="2019-04-01T05:38:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:Day2.Day2Demo.Test1@26be92ad]" name="afterTest" is-config="true" duration-ms="0" started-at="2019-04-01T05:38:02Z" finished-at="2019-04-01T05:38:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:Day2.Day2Demo.Test1@26be92ad]" name="afterSuite" is-config="true" duration-ms="1" started-at="2019-04-01T05:38:02Z" finished-at="2019-04-01T05:38:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- Day2.Day2Demo.Test1 -->
+      <class name="Day2.Day2Demo.test2">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:Day2.Day2Demo.test2@4c70fda8]" name="beforeClass" is-config="true" duration-ms="0" started-at="2019-04-01T05:38:02Z" finished-at="2019-04-01T05:38:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Day2.Day2Demo.test2@4c70fda8]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2019-04-01T05:38:02Z" finished-at="2019-04-01T05:38:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="method1()[pri:0, instance:Day2.Day2Demo.test2@4c70fda8]" name="method1" duration-ms="6" started-at="2019-04-01T05:38:02Z" finished-at="2019-04-01T05:38:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Day2.Day2Demo.test2@4c70fda8]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-04-01T05:38:02Z" finished-at="2019-04-01T05:38:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:Day2.Day2Demo.test2@4c70fda8]" name="afterClass" is-config="true" duration-ms="1" started-at="2019-04-01T05:38:02Z" finished-at="2019-04-01T05:38:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- Day2.Day2Demo.test2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
