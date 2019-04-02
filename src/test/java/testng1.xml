@@ -2,7 +2,8 @@
 <suite name="Suite" parallel="false">
   <test name="Test">
     <classes>
-      <class name="Day2.Day2Demo.NewTest11"/>
+      <class name="Day2.Day2Demo.NewTest13"/>
     </classes>
+    
   </test> <!-- Test -->
 </suite> <!-- Suite -->
